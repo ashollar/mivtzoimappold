@@ -1,0 +1,29 @@
+{
+    "background_color": "white",
+    "start_url":"https://mivtzoim.app/index.php",
+    "id":"https://mivtzoim.app/index.php",
+    "orientation": "portrait",
+    "theme_color": "white",
+    "description": "Manage your contacts and create checklists for mivtzoim.",
+    "display": "fullscreen",
+    "name": "Mivtzoim App",
+    "short_name": "Mivtzoim",
+    "scope": "https://mivtzoim.app/",
+    "icons": [
+      {
+        "src": "app-icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "app-icon-small.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+      }
+      
+    ]
+    
+
+  }
